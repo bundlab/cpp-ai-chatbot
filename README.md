@@ -42,7 +42,6 @@ cpp-ai-chatbot/
 ├── LICENSE
 └── .gitignore
 
----
+
 
 ⭐ If you find this project useful, please consider starring the repository.
----
