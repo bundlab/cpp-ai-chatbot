@@ -18,6 +18,12 @@ This project is designed to be **educational, extensible, and portfolio-worthy**
 - 🛠 Cross-platform (Linux, macOS, Windows)
 
 ---
+## 🧠 Next Upgrades (Optional)
+
+- TensorFlow C++ integration
+- Voice input/output
+- Neural network intent classification
+- REST API wrapper
 
 ## 📁 Project Structure
 
@@ -36,11 +42,7 @@ cpp-ai-chatbot/
 ├── LICENSE
 └── .gitignore
 
-## 🧠 Next Upgrades (Optional)
-- TensorFlow C++ integration
-- Voice input/output
-- Neural network intent classification
-- REST API wrapper
+---
 
 ⭐ If you find this project useful, please consider starring the repository.
 ---
