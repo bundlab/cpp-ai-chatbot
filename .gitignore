@@ -1,0 +1,32 @@
+# ===== Build artifacts =====
+chatbot
+*.o
+*.out
+*.exe
+
+# ===== CMake =====
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+
+# ===== IDE / Editor =====
+.vscode/
+.idea/
+*.code-workspace
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== Logs =====
+*.log
+
+# ===== Temporary files =====
+*~
+*.swp
+
+# ===== Python / virtual env (if added later) =====
+venv/
+__pycache__/

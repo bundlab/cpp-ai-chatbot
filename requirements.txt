@@ -1,0 +1,2 @@
+C++17 or later
+g++ / clang / MSVC

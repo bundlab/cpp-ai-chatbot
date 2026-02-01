@@ -1,0 +1,4 @@
+Greeting=Hello! 😊 How can I help you?
+Goodbye=Goodbye 👋 See you soon!
+AI=Artificial Intelligence allows machines to learn and reason.
+Name=I am a machine-learning chatbot written in C++.
